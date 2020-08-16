@@ -1,0 +1,12 @@
+:root{
+    --primary-text-color: #1c1e21;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    overflow: hidden;
+}
+.app{
+    display: flex;
+}
